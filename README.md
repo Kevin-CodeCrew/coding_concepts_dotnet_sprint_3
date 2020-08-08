@@ -5,6 +5,12 @@ C# is a general-purpose, modern and object-oriented programming language. It was
 
 Microsoft has extensive official documentation for.NET and C# [here](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/#language-sections) and [here](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/)
 
+C# source files typically have the file extension .cs. To create this program, first download and install the [.NET Core SDK](https://dotnet.microsoft.com/download). Then, execute the command dotnet new console -o yourProject to create a new program and a build script. The program and build script are in the files Program.cs and yourProject.csproj, respectively. You build and run the application with the run commands:
+```
+cd yourProject
+dotnet run
+```
+
 ### [Assignments](./message.md)
 
 ### Concepts
