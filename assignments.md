@@ -1,9 +1,7 @@
 [Jump to Bottom](#Bottom)
 ###### [Back to Concepts](./README.md)
-#### 20 08 10
-- [Lecture Link](./message.md)
-- [IC Link](./message.md)
-- [CW Link](./message.md)
-- [Solution Gist](./message.md)
-- [Video Walk-through ](./message.md)
+#### 20 08 10 C# Intro
+- [Lecture Link](https://classroom.github.com/a/plnWQP7I)
+- [IC Link](https://classroom.github.com/a/ulTgv5Or)
+- [Solutions Gist](https://gist.github.com/autumn-ragland/1b9c3e3e4c890c99e74160451474f4a9)
 ###### Bottom

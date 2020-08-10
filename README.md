@@ -11,7 +11,7 @@ cd yourProject
 dotnet run
 ```
 
-### [Assignments](./message.md)
+### [Assignments](./assignments.md)
 
 ### Concepts
 - C# Basics
