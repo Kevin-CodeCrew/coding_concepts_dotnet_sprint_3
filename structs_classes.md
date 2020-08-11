@@ -43,5 +43,6 @@ Console.WriteLine($"Congrats on your new {pet1.Type}! {pet1.Name} is {pet1.Age} 
 
 ### General Resources 
 - [Classes and Structs Overview](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/)
+- [Properties] (https://codeasy.net/lesson/properties)
 
 [Back to Top](#Top)
