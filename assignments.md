@@ -18,8 +18,8 @@
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200812-csharp-list-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/kOGj89ZB)
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-lists-inheritance-ic-autumn-ragland)
-- [CW Link](./message.md)
-- [CW Solution Repo](./message.md)
+- [CW Link](https://classroom.github.com/a/ZJRUkoBp)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-lists-inheritance-cw-autumn-ragland)
 - [Walk though Video](./message.md)
 
 ###### Bottom
