@@ -20,6 +20,6 @@
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-lists-inheritance-ic-autumn-ragland)
 - [CW Link](https://classroom.github.com/a/ZJRUkoBp)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-lists-inheritance-cw-autumn-ragland)
-- [Walk though Video](./message.md)
+- [Walk though Video](https://youtu.be/uGQ26epSFUk)
 
 ###### Bottom
