@@ -17,9 +17,9 @@
 - [Lecture Link](https://classroom.github.com/a/2ADTC6GH)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200812-csharp-list-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/kOGj89ZB)
-- [IC Solution Repo](./message)
-- [CW Link](./message)
-- [CW Solution Repo](./message)
-- [Walk though Video](./message)
+- [IC Solution Repo](./message.md)
+- [CW Link](./message.md)
+- [CW Solution Repo](./message.md)
+- [Walk though Video](./message.md)
 
 ###### Bottom
