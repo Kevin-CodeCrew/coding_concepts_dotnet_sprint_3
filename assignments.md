@@ -22,4 +22,13 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-lists-inheritance-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/uGQ26epSFUk)
 
+#### 20 08 13 Class and Lists Review with Loop
+- [Lecture Link](https://classroom.github.com/a/dalGneDu)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200813-lists-loops-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/HCmfG9ys)
+- [IC Solution Repo](./message.md)
+- [CW Link](./message.md)
+- [CW Solution Repo](./message.md)
+- [Walk though Video](./message.md)
+
 ###### Bottom
