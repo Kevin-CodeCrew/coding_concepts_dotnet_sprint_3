@@ -26,7 +26,7 @@
 - [Lecture Link](https://classroom.github.com/a/dalGneDu)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200813-lists-loops-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/HCmfG9ys)
-- [IC Solution Repo](./message.md)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200813-lists-loops-ic-autumn-ragland)
 - [CW Link](./message.md)
 - [CW Solution Repo](./message.md)
 - [Walk though Video](./message.md)
