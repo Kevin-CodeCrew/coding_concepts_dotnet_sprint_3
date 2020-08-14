@@ -23,6 +23,6 @@ dotnet run
     - [LINQ](./linq.md)
     - [Try Catch](./try_catch.md)
     - [Debugging](./message.md)
-- .Net MVC
-    - [Intro to .NET MVC](./intro_mvc.md)
+- ASP.NET MVC
+    - [Introduction to ASP.NET MVC](./intro_mvc.md)
     - [Controllers/Routing](./controllers_routing.md)
