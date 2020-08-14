@@ -85,7 +85,7 @@ You can send data to the server in your request in three main ways.
 
 ## Request Body
 
-You learned how to do this in JavaScript using `fetch`. Here's a JavaScript request to your `cohorts` resource in your API.
+In class, you may have learned how to do this in JavaScript using `fetch`. Here's a JavaScript request to your `cohorts` resource in your API.
 
 ```js
 fetch("http://localhost:5000/cohorts", {
