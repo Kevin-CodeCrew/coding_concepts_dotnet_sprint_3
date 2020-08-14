@@ -35,6 +35,12 @@ strList.Add("Damien");
 strList.Add("JP");
 strList.Add("Jeffery");
 ```
+Defining a List of Strings 
+
+A list of strings can be populated when declared using the {} shorthand
+```C#
+List<string> strList = new List<string>(){"Damien", "JP", "Jeffery"};
+```
 List Properties - Accessing Elements and Length
 ```c#
 // Access elements of a list by index position and return length of array using Count method
@@ -46,11 +52,22 @@ List Methods - `Sort()` and `Remove()`
 Sort - Sorts the elements or a portion of the elements in the List<T> using either the specified or default IComparer<T> implementation or a provided Comparison<T> delegate to compare list elements.
 
 Remove - Removes the first occurrence of a specific object from the List<T>.
+
+IndexOf - Finds the 0 based index of the  first occurrence of a specific object from the List, retruns -1 if no object is found
+
+Contains - Returns a value indicating whether a specified object occurs within the List
 ```c#
 // List Sort method
 intList.Sort();
+
 // List Remove method
-strList.Remove(strList[1]);
+strList.Remove("Damien");
+
+// List IndexOf method
+strList.IndexOf("Jeffery")
+
+// List Contains method
+strList.Contains("JP")
 ```
 ### General Resources 
 - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
