@@ -103,7 +103,7 @@ fetch("http://localhost:5000/cohorts", {
 
 You can view the body request by looking in your Network tab of Chrome Developer Tools, clicking on the request, and scrolling to the bottom.
 
-![a sample fetch request and showing the request payload](./images/jc9cpBmvW9.gif)
+![a sample fetch request and showing the request payload](./dev_console_network_tab.gif)
 
 ## Route Parameters
 
