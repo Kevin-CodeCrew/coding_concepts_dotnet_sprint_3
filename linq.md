@@ -157,7 +157,7 @@ public class Program
 
 ## LINQ and Lambdas
 
-Remember your anonymous function syntax that you learned about in the client-side course? It was nice, clean syntax to pass a function to another function, such as `forEach()` or `map()`, or `filter()` on an array.
+Remember your anonymous function syntax that you learned about in the JavaScript part of the course? It was nice, clean syntax to pass a function to another function, such as `forEach()` or `map()`, or `filter()` on an array.
 
 ```js
 // Given this JavaScript array of numbers
@@ -171,7 +171,7 @@ const numbers = [9, -59, 23, 71, -74, 13, 52, 44, 2]
 let smallPositiveNumbers = numbers.filter(n => n < 40 && n > 0).sort((f, s) => f - s)
 ```
 
-Luckily for you, you can use lambdas in C#, and the syntax is almost identical using LINQ.
+You can use lambdas in C#, and the syntax is almost identical using LINQ.
 
 ```cs
 // Give this C# List of numbers
@@ -380,16 +380,6 @@ namespace linqGroupBy
         }
     }
 }
-```
-
-
-## Practice: LINQed List
-
-### Setup
-
-```
-mkdir -p ~/workspace/csharp/exercises/linq && cd $_
-dotnet new console
 ```
 
 ### References
