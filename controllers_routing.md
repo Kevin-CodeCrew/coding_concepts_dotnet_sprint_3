@@ -9,7 +9,7 @@ ASP.NET MVC applications use several conventions to help you quickly write an AP
 
 In your browser code, whether you built a React, Angular, Vue, or other JavaScript based application, you often make XHRs to get data from other locations on the Web. Since you are going to be building this "other location" now, your JavaScript application could make a request to your API.
 
-Assume your API is listening to requests on port 5000 of your machine. It exposes kitchen appliances as a resources (e.g. toaster, coffee maker, microwave, etc.)
+Assume your API is listening to requests on port 5000 of your machine. It exposes kitchen appliances as a resources (e.g. toaster, coffee maker, microwave, etc.) you could interact with aa language like JavaScript by coding something similar to the following.
 
 ### JavaScript Request
 
