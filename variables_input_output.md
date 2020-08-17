@@ -19,14 +19,20 @@ enum Priority
 {
     high, medium, low
 }
----
+// access enum member
 taskPriority = Priority.high;
 ```
 ### Getting and Saving Input from the Console
 ```C#
 Console.WriteLine("What is your favorite programming language");
-userLang = Console.ReadLine(); // Input from the console and
+string userName = Console.ReadLine(); // Input from the console and
 Console.WriteLine(userName);
+```
+### Casting Variable Types
+Console.ReadLine() returns a string but that value can be cast to a integer using the Parse method. 
+```C#
+Console.WriteLine("Enter a number between 1 and 5");
+int userNumber = Int32.Parse(Console.ReadLine());
 ```
 ### Using String Templating 
 ```C#
