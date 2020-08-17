@@ -11,7 +11,12 @@ for(int i = 0; i < strList.Count; i++)
 # For Each
 ```c#
 List<string> strList = new List<string>(){"Autumn", "Kevin", "Erin", "Meka"};
-strList.ForEach(strItem => Console.WriteLine($"Staff Member : {strItem}"));
+strList.ForEach(strItem => Console.WriteLine($"Staff Member : {strItem}")); // shorthand
+// longhand
+forEach(string str in stringList)
+{
+     Console.WriteLine($"Staff Member : {strItem}")
+}
 ```
 # While Loops
 ```c#
