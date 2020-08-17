@@ -1,7 +1,7 @@
 ###### Top
 ###### [Back to Concepts](./README.md)
 # Structs and Classes
-A type that is defined as a class is a reference type. At run time, when you declare a variable of a reference type, the variable contains the value null until you explicitly create an instance of the class by using the new operator, or assign it an object of a compatible type that may have been created elsewhere. Classes are declared by using the class keyword followed by a unique identifier. The class keyword is preceded by the access level. Because public is used in this case, anyone can create instances of this class. The name of the class follows the class keyword. The name of the class must be a valid C# identifier name. The remainder of the definition is the class body, where the behavior and data are defined. Fields, properties, methods, and events on a class are collectively referred to as class members. A class defines a type of object, but it is not an object itself. An object is a concrete entity based on a class, and is sometimes referred to as an instance of a class.Objects can be created by using the new keyword followed by the name of the class that the object will be based on.
+At run time, when you declare a variable of a reference type, the variable contains the value null until you explicitly create an instance of the class by using the new operator, or assign it an object of a compatible type that may have been created elsewhere. Classes are declared by using the class keyword followed by a unique identifier. The name of the class follows the class keyword. The name of the class must be a valid C# identifier name. The remainder of the definition is the class body, where the behavior and data are defined. Fields, properties, methods, and events on a class are collectively referred to as class members. A class defines a type of object, but it is not an object itself. An object is a concrete entity based on a class, and is sometimes referred to as an instance of a class. Objects can be created by using the new keyword followed by the name of the class that the object will be based on.
 ### Define a Class
 ```c#
 /// <summary>class <c>PetClass</c>
@@ -30,9 +30,6 @@ class PetClass
 ### Create an Instance of a Class
 ```c#
 PetClass pet1 = new PetClass("Dakota", 10, PetType.dog, false); // create a new instance of the class
-
-// Access each property of the new pet object using dot notation
-Console.WriteLine($"Congrats on your new {pet1.Type}! {pet1.Name} is {pet1.Age} years old. It is {pet1.Trained} that they are trained.");
 ```
 ### Define Properties of an Instance of a Class
 ```c#
