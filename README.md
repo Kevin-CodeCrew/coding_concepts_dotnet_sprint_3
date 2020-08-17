@@ -21,8 +21,6 @@ dotnet run
     - [Arrays and Lists](./arrays_lists.md)
     - [For and While Loops](./loops.md)
     - [LINQ](./linq.md)
-    - [Try Catch](./try_catch.md)
-    - [Debugging](./message.md)
 - ASP.NET MVC
     - [Introduction to ASP.NET MVC](./intro_mvc.md)
     - [ASP.NET MVC Controllers/Routing](./controllers_routing.md)
