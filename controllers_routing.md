@@ -3,9 +3,9 @@
 
 # ASP.NET Web API Controllers/Routing
 
-## What is a Controller?
+## How does a Controller Receive and Route Network Requests?
 
-ASP.NET MVC applications use several conventions to help you quickly write an API controller to handle web requests foro the resources you expose from your database. Let's look at an example.
+ASP.NET MVC applications use several conventions to help you quickly write an API controller to handle web requests for the resources you expose from your database. Let's look at an example.
 
 In your browser code, whether you built a React, Angular, Vue, or other JavaScript based application, you often make XHRs to get data from other locations on the Web. Since you are going to be building this "other location" now, your JavaScript application could make a request to your API.
 
