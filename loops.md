@@ -13,7 +13,7 @@ for(int i = 0; i < strList.Count; i++)
 List<string> strList = new List<string>(){"Autumn", "Kevin", "Erin", "Meka"};
 strList.ForEach(strItem => Console.WriteLine($"Staff Member : {strItem}")); // shorthand
 // longhand
-forEach(string str in stringList)
+forEach(string strItem in strList)
 {
      Console.WriteLine($"Staff Member : {strItem}")
 }
