@@ -26,6 +26,14 @@ The ASP.NET Core MVC framework is a lightweight, open source, highly testable pr
 
 ASP.NET Core MVC provides a patterns-based way to build dynamic websites that enables a clean separation of concerns. It gives you full control over markup, supports TDD-friendly development and uses the latest web standards.
 
+## Creating a Barebones MVC Starter Application
+Depending on the IDE you are using, you may have multiple menu options for generating a new MVC application. Here we will stick to using the Command Line Interface (CLI) which can be used with any environment.
+
+`dotnet new mvc`
+
+Will create a barebones .NET MVC web application. 
+
+
 ### General Resources 
 - [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc)
 
