@@ -18,7 +18,7 @@ dotnet run
     - [Variables, Input and Output to the Console](./variables_input_output.md)
     - [Structs and Classes](./structs_classes.md)
     - [Conditionals](./conditionals.md)
-    - [Arrays and Lists](./arrays_lists.md)
+    - [Arrays, Lists and Dictionaries](./arrays_lists.md)
     - [For and While Loops](./loops.md)
     - [LINQ](./linq.md)
 - ASP.NET MVC
