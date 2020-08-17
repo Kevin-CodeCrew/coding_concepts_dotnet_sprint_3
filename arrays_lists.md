@@ -1,7 +1,7 @@
 ###### Top
 ###### [Back to Concepts](./README.md)
-# Arrays and Lists
-Arrays and lists are similar is structure in that both are a strongly typed collection of items with a zero based index. Arrays cannot be altered or extended after creation. Lists are able to be altered and extended and built in methods such as Add, Remove, and Sort make these alteration much simpler.
+# Arrays Lists and Dictionaries 
+Arrays and lists are similar is structure in that both are a strongly typed collection of items with a zero based index. Arrays cannot be altered or extended after creation. Lists are able to be altered and extended and built in methods such as Add, Remove, and Sort make these alteration much simpler.Lists and Dictionaries share functionality as well. A dictionary is a collection of keys and values. Each element in a dictionary must have a unique key.
 
 Defining an Array of Strings and and Array of Integers
 ```c#
@@ -68,6 +68,12 @@ strList.IndexOf("Jeffery")
 
 // List Contains method
 strList.Contains("JP")
+```
+Defining a Dictionary with string key and string values
+```c#
+Dictionary<string, string> exampleDict = new Dictionary<string, string>(); // define Dictionary with type parameters
+exampleDict.Add("example one", "this example is pretty simple") // add an element to the Dictionary, pass in key and value seperated by comma
+Console.WriteLine(exampleDict["example one"] // reference an element in the dictionary by the key
 ```
 ### General Resources 
 - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
