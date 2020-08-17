@@ -21,6 +21,10 @@ The *Model* in an MVC application represents the state of the application and an
 ## Controller Responsibilities
 *Controllers* are the components that handle user interaction, work with the model, and ultimately select a view to render. In an MVC application, the view only displays information; the controller handles and responds to user input and interaction. In the MVC pattern, the controller is the initial entry point, and is responsible for selecting which model types to work with and which view to render (hence its name - it controls how the app responds to a given request).
 
+## What is ASP.NET Core MVC
+The ASP.NET Core MVC framework is a lightweight, open source, highly testable presentation framework optimized for use with ASP.NET Core.
+
+ASP.NET Core MVC provides a patterns-based way to build dynamic websites that enables a clean separation of concerns. It gives you full control over markup, supports TDD-friendly development and uses the latest web standards.
 
 ### General Resources 
 - [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc)
