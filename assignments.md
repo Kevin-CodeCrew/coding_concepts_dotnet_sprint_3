@@ -54,7 +54,7 @@
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-mvc-intro-ic-autumn-ragland)
 - [CW Link](https://classroom.github.com/a/FM2n8W92)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-mvc-intro-cw-autumn-ragland)
-- [Walk though Video](./message.md)
+- [Walk though Video](https://youtu.be/vLReovJqtP8)
 
 
 ###### Bottom
