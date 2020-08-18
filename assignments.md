@@ -36,12 +36,21 @@
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200813-lists-loops-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/C9Lj_psm)
 - [IC Solution Gist](https://gist.github.com/Kevin-CodeCrew/3b8ce69d86d079a2f65ce727d0680e15)
-- [Walk though Video](./message.md)
 
 #### 20 08 17 Review
 - [Lecture Link](https://classroom.github.com/a/Le2uNQhu)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200817-csharp-review-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/eNv--guL)
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-linq-ic-autumn-ragland)
+
+#### 20 08 13 Class and Lists Review with Loop
+- [Lecture Link](https://classroom.github.com/a/DdZHK4rs)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200818-dotnet-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/XTmb-4LN)
+- [IC Solution Repo](./message.md)
+- [CW Link](./message.md)
+- [CW Solution Repo](./message.md)
+- [Walk though Video](./message.md)
+
 
 ###### Bottom
