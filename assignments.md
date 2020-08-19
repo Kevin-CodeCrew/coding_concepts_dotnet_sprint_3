@@ -58,7 +58,7 @@
 
 #### 20 08 13 MVC CRUD Routes
 - [Lecture Link](https://classroom.github.com/a/ROpYEpjT)
-- [Lecture Solution Repo](./message.md)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200819-mvc-routing-lecture-Kevin-CodeCrew)
 - [IC Link](./message.md)
 - [IC Solution Repo](./message.md)
 
