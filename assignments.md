@@ -47,7 +47,7 @@
 - [Link 1](https://classroom.github.com/a/HDpuz0NU)
 - [Link 2](https://classroom.github.com/a/NYWcBn6X)
 
-#### 20 08 17 .NET Introduction
+#### 20 08 18 .NET Introduction
 - [Lecture Link](https://classroom.github.com/a/DdZHK4rs)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200818-dotnet-lecture-autumn-ragland)
 - [IC Link](https://classroom.github.com/a/XTmb-4LN)
@@ -56,7 +56,7 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-mvc-intro-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/vLReovJqtP8)
 
-#### 20 08 18 MVC CRUD Routes
+#### 20 08 19 MVC CRUD Routes
 - [Lecture Link](https://classroom.github.com/a/ROpYEpjT)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200819-mvc-routing-lecture-Kevin-CodeCrew)
 - [IC Link](https://classroom.github.com/a/P0OW11Sx)
