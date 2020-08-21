@@ -56,10 +56,14 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-mvc-intro-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/vLReovJqtP8)
 
-#### 20 08 13 MVC CRUD Routes
+#### 20 08 18 MVC CRUD Routes
 - [Lecture Link](https://classroom.github.com/a/ROpYEpjT)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200819-mvc-routing-lecture-Kevin-CodeCrew)
 - [IC Link](https://classroom.github.com/a/P0OW11Sx)
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-mvc-routing-ic-Kevin-CodeCrew)
+
+#### 20 08 20 Assessment 2
+- [Assessment Link](https://classroom.github.com/a/GF0t173j)
+- [Solution Repo](https://github.com/cs-fullstack-2020-fall/coding-concepts-assessment2-csharp-autumn-ragland)
 
 ###### Bottom
