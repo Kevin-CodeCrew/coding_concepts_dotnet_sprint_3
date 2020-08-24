@@ -66,4 +66,13 @@
 - [Assessment Link](https://classroom.github.com/a/GF0t173j)
 - [Solution Repo](https://github.com/cs-fullstack-2020-fall/coding-concepts-assessment2-csharp-autumn-ragland)
 
+#### 20 08 24 .NET Views Intro
+- [Lecture Link](https://classroom.github.com/a/eQB_OthY)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200824-dotnet-views-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/BDmZtFGg)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200824-dotnet-views-ic-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/8J4UTfOf)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200824-dotnet-views-cw-autumn-ragland)
+- [Walk though Video](https://youtu.be/r_BeRc-liwE)
+
 ###### Bottom
