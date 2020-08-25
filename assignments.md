@@ -75,4 +75,12 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200824-dotnet-views-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/r_BeRc-liwE)
 
+#### 20 08 25 .NET View Models
+- [Lecture Link](https://classroom.github.com/a/z674-P_U)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200825-dotnet-views-lecture-Kevin-CodeCrew)
+- [IC Link](https://classroom.github.com/a/oqr82b6y)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200825-dotnet-views-ic-Kevin-CodeCrew)
+- [CW Link](https://classroom.github.com/a/kppKBs_E)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200825-dotnet-views-cw-autumn-ragland)
+
 ###### Bottom
