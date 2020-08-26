@@ -83,4 +83,13 @@
 - [CW Link](https://classroom.github.com/a/kppKBs_E)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200825-dotnet-views-cw-autumn-ragland)
 
+#### 20 08 26 .NET Partial Views
+- [Lecture Link](https://classroom.github.com/a/ceQv3Yqz)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200826-partial-views-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/zPjE2T7s)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200826-partial-views-ic-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/EoJWN03J)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200826-partial-views-cw-autumn-ragland)
+- [Walk though Video](https://youtu.be/lz1GwwgCwLU)
+
 ###### Bottom
