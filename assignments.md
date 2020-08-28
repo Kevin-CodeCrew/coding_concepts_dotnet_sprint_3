@@ -92,4 +92,9 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200826-partial-views-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/lz1GwwgCwLU)
 
+#### 20 08 28 MVC Project
+- [Solution Link](https://classroom.github.com/a/xVvMRIbj)
+- [Solution Repo](https://github.com/cs-fullstack-2020-fall/200828-mvc-mini-project-autumn-ragland)
+- [Walk though Video](https://youtu.be/VE0txwgYtM4)
+
 ###### Bottom
