@@ -97,4 +97,11 @@
 - [Solution Repo](https://github.com/cs-fullstack-2020-fall/200828-mvc-mini-project-autumn-ragland)
 - [Walk though Video](https://youtu.be/VE0txwgYtM4)
 
+#### 20 08 31 .NET Entity Framework
+- [Lecture Link](https://classroom.github.com/a/YXJxEHPG)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-entity-framework-lecture-Kevin-CodeCrew)
+- [IC Link](https://classroom.github.com/a/2cG4r_lK)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-entityfwk-1-ic-autumn-ragland)
+- [Walk though Video](./message.md)
+
 ###### Bottom
