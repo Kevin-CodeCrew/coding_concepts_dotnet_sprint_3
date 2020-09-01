@@ -104,4 +104,13 @@
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/csharp-entityfwk-1-ic-autumn-ragland)
 - [Walk though Video](https://youtu.be/qSEXRMwzX9E)
 
+#### 20 09 01 .NET Entity Framework + Views
+- [Lecture Link](https://classroom.github.com/a/sBmiRe38)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200901-entity-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/IjWq0vFP)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200901-entity-ic-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/co_PWJDu)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200901-entity-cw-autumn-ragland)
+- [Walk though Video](https://youtu.be/O8IoDkDFIao)
+
 ###### Bottom
