@@ -113,4 +113,10 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200901-entity-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/O8IoDkDFIao)
 
+#### 20 09 02 .NET Entity Framework + Model Annotations
+- [Lecture Link](https://classroom.github.com/a/IeGp8V2G)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200902-dotnet-lecture-autumn-ragland)
+- [IC Link](https://classroom.github.com/a/Mvb6W5QD)
+- [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200902-dotnet-annotations-eager-ic-autumn-ragland)
+
 ###### Bottom
