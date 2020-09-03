@@ -47,8 +47,27 @@ dotnet ef database update
 - open the SQLite explorer from the command pallet and select the data source file specific in the app setting file to view created database
 - create a reference to the database in any controller needing access to this reference by defining a private readonly property `_context` and set the value of this property in the controller class constructor 
 ### Model Annotations
-
+Take advantage of the Data Annotation Model Binder to perform validation within an ASP.NET MVC application. The advantage of using the Data Annotation validators is that they enable you to perform validation simply by adding one or more attributes – such as the Required or StringLength attribute – to a class property. To use data annotations import `System.ComponentModel.DataAnnotations;`
+```c#
+using System;
+using System.ComponentModel.DataAnnotations;
+// example database model
+namespace Practice.Models
+{
+    public class DatabaseModel
+    {
+        [Key] // signifies primary key
+        public int id{get;set;}
+        [Required] // an instance of this model cannot be created without a value for this property
+        [StringLength(1000, MinimumLength = 50)] // the value of this property must be between 50 and 1000 characters
+        public string itemName{get;set;}
+        [Range(0,1000)]  // an instance of this model cannot be created without a value for this property
+        public string itemNumber{get;set;} // the value of this property must between 1 and 1000
+    }
+}
+```
 ### Model Binding
+```
 ### General Resources 
 - [Tutorial Console App](https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=netcore-cli)
 - [Overview](https://docs.microsoft.com/en-us/ef/core/)
