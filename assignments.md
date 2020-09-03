@@ -124,6 +124,6 @@
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200903-dotnet-annotations-eager-ic-Kevin-CodeCrew)
 - [IC Link](https://classroom.github.com/a/jCVIp22n)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-annotations-eager-cw-autumn-ragland)
-- [Walk though Video](https://youtu.be/O8IoDkDFIao)
+- [Walk though Video](https://youtu.be/EpfZYRWLdO4)
 
 ###### Bottom
