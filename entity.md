@@ -67,6 +67,24 @@ namespace Practice.Models
 }
 ```
 ### Model Binding
+
+In the following example, only the specified properties of the Instructor model are bound when the OnPost method is called:
+```c#
+[HttpPost]
+public IActionResult OnPost([Bind("LastName,FirstMidName,HireDate")] Instructor instructor)
+```
+### Model State Error Output
+```c#
+// method to capture model state validation errors
+public static List<string> GetErrorListFromModelState(ModelStateDictionary modelState)
+{
+    IEnumerable<string> query = from state in modelState.Values
+		from error in state.Errors
+		select error.ErrorMessage;
+
+    List<string> errorList = query.ToList();
+    return errorList;
+}
 ```
 ### General Resources 
 - [Tutorial Console App](https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=netcore-cli)
