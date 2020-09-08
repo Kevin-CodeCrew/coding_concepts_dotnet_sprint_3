@@ -135,6 +135,6 @@
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200908-dotnet-forms-lecture-autumn-ragland)
 - [CW Link](https://classroom.github.com/a/EPL7Ywlg)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200908-dotnet-forms-cw-autumn-ragland)
-- [Walk though Video](./message.md)
+- [Walk though Video](https://youtu.be/mmjDpKGPGoo)
 
 ###### Bottom
