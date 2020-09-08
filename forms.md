@@ -50,6 +50,8 @@ public DateTime ? Birthdate{get;set;};
 ## Model Binding
 
 ### Saving Data
+You can optionally handle both `create` and edit (`update`) in one action by checking what is passed in.
+
 ```csharp
 [HttpPost]
 public ActionResult Save(Customer customer)
@@ -68,10 +70,14 @@ public ActionResult Save(Customer customer)
 }
 ```
 ## Editing Data
+TBD
 
 ### Updating Data
+TBD 
+
 #### Hidden Fields
-Required when updating data
+Required when updating data in that the User will never enter the `id`. We just use it behind the scenes.
+
 ```csharp
 @Html.HiddenFor(m => m.Customer.Id)
 ```
