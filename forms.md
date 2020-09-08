@@ -94,7 +94,7 @@ And you're good to go. To see changes made in your view, just save your cshtml f
 
 
 ### General Resources 
-- [.NET MVC Forms](./BuildingFormsCheatSheet.pdf)
+- [.NET MVC Forms](.)
 
 
 [Back to Top](#Top)
