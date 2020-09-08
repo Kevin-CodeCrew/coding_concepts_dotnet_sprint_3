@@ -66,6 +66,16 @@ namespace Practice.Models
     }
 }
 ```
+### Referencing the DB in a Controller
+```c#
+// create a private readonly class property called `_context`
+private readonly DBContextClassName _context;
+// set the value of `_context` in the class construtcor 
+public ControllerClassName(DBContextClassName context)
+{
+    _context = context;
+}
+```
 ### Model Binding
 
 In the following example, only the specified properties of the Instructor model are bound when the OnPost method is called:
@@ -90,5 +100,6 @@ public static List<string> GetErrorListFromModelState(ModelStateDictionary model
 - [Tutorial Console App](https://docs.microsoft.com/en-us/ef/core/get-started/?tabs=netcore-cli)
 - [Overview](https://docs.microsoft.com/en-us/ef/core/)
 - [Model Binding](https://docs.microsoft.com/en-us/ef/core/)
+- [DbContext](https://docs.microsoft.com/en-us/ef/core/miscellaneous/configuring-dbcontext)
 
 [Back to Top](#Top)
