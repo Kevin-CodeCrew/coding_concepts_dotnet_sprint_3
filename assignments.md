@@ -119,11 +119,22 @@
 - [IC Link](https://classroom.github.com/a/Mvb6W5QD)
 - [IC Solution Repo](https://github.com/cs-fullstack-2020-fall/200902-dotnet-annotations-eager-ic-autumn-ragland)
 
-#### 20 09 02 .NET Entity Framework + Model Annotations 2
+#### 20 09 03 .NET Entity Framework + Model Annotations 2
 - [Lecture Link](https://classroom.github.com/a/dYo6zHeo)
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200903-dotnet-annotations-eager-ic-Kevin-CodeCrew)
 - [CW Link](https://classroom.github.com/a/jCVIp22n)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/dotnet-annotations-eager-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/EpfZYRWLdO4)
+
+#### 20 09 04 .NET Persistence Project
+- [Project Link](https://classroom.github.com/a/0Lj3KuEE)
+- [Project Solution Repo](https://github.com/cs-fullstack-2020-fall/200904-mvc-persistence-project-autumn-ragland)
+
+#### 20 09 08 .NET Model Bound Forms
+- [Lecture Link](https://classroom.github.com/a/tFT8l5wY)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200908-dotnet-forms-lecture-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/EPL7Ywlg)
+- [CW Solution Repo](./message.md)
+- [Walk though Video](./message.md)
 
 ###### Bottom
