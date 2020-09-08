@@ -27,4 +27,3 @@ dotnet run
     - [.NET MVC Views](.)
     - [.NET Entity Framework](./entity.md)
     - [Razor Forms](./forms.md)
-    - 
