@@ -36,5 +36,6 @@ Will create a barebones .NET MVC web application.
 
 ### General Resources 
 - [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc)
+- [MVC Pattern Detailed Image](./mvc.png)
 
 [Back to Top](#Top)
