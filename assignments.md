@@ -137,4 +137,11 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200908-dotnet-forms-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/mmjDpKGPGoo)
 
+#### 20 09 09 .NET Model Bound Forms
+- [Lecture Link](https://classroom.github.com/a/vvfQHtTS)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200909-forms-lecture-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/RfVMf07u)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200909-forms-cw-autumn-ragland)
+- [Walk though Video](https://youtu.be/rEpbKaDNaZE)
+
 ###### Bottom
