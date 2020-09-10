@@ -78,6 +78,6 @@ And you're good to go. To see changes made in your view, just save your cshtml f
 
 
 ### General Resources 
-- [.NET MVC Forms](.)
+- [Views in ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview?view=aspnetcore-3.1)
 
 [Back to Top](#Top)
