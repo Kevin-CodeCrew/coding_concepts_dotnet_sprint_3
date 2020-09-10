@@ -24,6 +24,6 @@ dotnet run
 - ASP.NET MVC
     - [Introduction to ASP.NET MVC](./intro_mvc.md)
     - [.NET MVC Controllers/Routing](./controllers_routing.md)
-    - [.NET MVC Views](.)
+    - [.NET MVC Views](./views.md)
     - [.NET Entity Framework](./entity.md)
     - [Razor Forms](./forms.md)
