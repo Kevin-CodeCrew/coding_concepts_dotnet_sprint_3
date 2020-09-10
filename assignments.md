@@ -144,4 +144,12 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200909-forms-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/rEpbKaDNaZE)
 
+#### 20 09 10 .NET Validation
+- [Lecture Link](https://classroom.github.com/a/fbvcX6CY)
+- [Lecture Solution Repo](./message.md)
+- [CW Link](https://classroom.github.com/a/-zIEVlN-)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200910-validation-cw-Kevin-CodeCrew)
+- [Walk though Video](https://youtu.be/mt51KZdCHzU)
+
+
 ###### Bottom
