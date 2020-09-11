@@ -151,5 +151,12 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200910-validation-cw-Kevin-CodeCrew)
 - [Walk though Video](https://youtu.be/mt51KZdCHzU)
 
+#### 20 09 10 .NET Partials + Validation
+- [Lecture Link](https://classroom.github.com/a/a3liTyaz)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200911-mvc-lecture-autumn-ragland)
+- [CW Link](https://classroom.github.com/a/n8ykwIU7)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200911-mvc-cw-autumn-ragland)
+- [Walk though Video](./message.md)
+
 
 ###### Bottom
