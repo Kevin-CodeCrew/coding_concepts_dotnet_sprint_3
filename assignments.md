@@ -156,7 +156,7 @@
 - [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200911-mvc-lecture-autumn-ragland)
 - [CW Link](https://classroom.github.com/a/n8ykwIU7)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200911-mvc-cw-autumn-ragland)
-- [Walk though Video](./message.md)
+- [Walk though Video](https://youtu.be/2BfC8XZ4Mbw)
 
 
 ###### Bottom
