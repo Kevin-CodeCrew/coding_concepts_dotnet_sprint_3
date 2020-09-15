@@ -158,5 +158,13 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200911-mvc-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/2BfC8XZ4Mbw)
 
+#### 20 09 14 .NET Authentication
+- [Lecture Link](https://classroom.github.com/a/6ntU8XT0)
+- [Lecture Solution Repo](./message.md)
+- [Practice Link](https://classroom.github.com/a/s5lsGYwu)
+- [Practice Solution Repo](./message.md)
+- [CW Link](https://classroom.github.com/a/1wvlIWdK)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200914-auth-intro1-cw-Kevin-CodeCrew)
+- [Walk though Video](https://youtu.be/T9qSy6htDM)
 
 ###### Bottom
