@@ -176,9 +176,9 @@
 
 #### 20 09 16 .NET Authorization + CRUD
 - [Lecture Link](https://classroom.github.com/a/EK27LvT6)
-- [Lecture Solution Repo](./message.md)
+- [Lecture Solution Repo](https://github.com/cs-fullstack-2020-fall/200916-authorization-lecture-Kevin-CodeCrew.git)
 - [CW Link](https://classroom.github.com/a/WQmHZff-)
-- [CW Solution Repo](./message.md)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200916-authorization-cw-Kevin-CodeCrew)
 - [Walk though Video](https://youtu.be/l8arG09fGao)
 
 ###### Bottom
