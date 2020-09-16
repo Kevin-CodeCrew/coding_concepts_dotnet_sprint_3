@@ -174,4 +174,11 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200915-auth-crud-cw-autumn-ragland)
 - [Walk though Video](https://youtu.be/Wr20rjcx_AE)
 
+#### 20 09 16 .NET Authorization + CRUD
+- [Lecture Link](https://classroom.github.com/a/EK27LvT6)
+- [Lecture Solution Repo](./message.md)
+- [CW Link](https://classroom.github.com/a/WQmHZff-)
+- [CW Solution Repo](./message.md)
+- [Walk though Video](https://youtu.be/l8arG09fGao)
+
 ###### Bottom
