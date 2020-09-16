@@ -67,5 +67,6 @@ Specific Controllers/Methods by user role
 
 ### General Resources 
 - [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=netcore-cli)
+-[AccountController missing? Razor Class Libraries – dotnet CLI Identity Scaffolding](https://gavilan.blog/2019/07/18/accountcontroller-missing-razor-class-libraries-dotnet-cli-identity-scaffolding/)
 
 [Back to Top](#Top)
