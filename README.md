@@ -27,4 +27,4 @@ dotnet run
     - [.NET MVC Views](./views.md)
     - [.NET Entity Framework](./entity.md)
     - [Razor Forms](./forms.md)
-    - [Authentication/Authorization](./auth.md)
+    - [Authentication and Authorization (ASP.NET Identity Framework)](./auth.md)
