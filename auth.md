@@ -23,10 +23,8 @@ Best to add when MVC application created using *Identity Scaffolding*.
 	dotnet new mvc -o authintroApp *--auth individual*
 ```
 
-* Note the additions made to .csproj to support authentication *
-
-
-* Review the tables in Sqlite *
+- Note the additions made to .csproj to support authentication
+- Review the tables in Sqlite
 
 
 ### Adding Security Checks
