@@ -66,6 +66,6 @@ Specific Controllers/Methods by user role
 
 
 ### General Resources 
-
+- [Introduction to Identity on ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-3.1&tabs=netcore-cli)
 
 [Back to Top](#Top)
