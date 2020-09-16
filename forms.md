@@ -107,7 +107,7 @@ And you're good to go. To see changes made in your view, just save your cshtml f
 
 
 ### General Resources 
-- [.NET MVC Forms](.)
+- [.NET MVC Razor Forms](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-3.1&tabs=visual-studio)
 
 
 [Back to Top](#Top)
