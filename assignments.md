@@ -181,4 +181,10 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200916-authorization-cw-Kevin-CodeCrew)
 - [Walk though Video](https://youtu.be/l8arG09fGao)
 
+#### 20 09 21 .NET Team Development
+- [Lecture Link + Solution](https://classroom.github.com/g/e3FakQuC)
+- [CW Link](https://classroom.github.com/g/ZdC5EajY)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200921-team-development-solution)
+- [Walk though Video](./message.md)
+
 ###### Bottom
