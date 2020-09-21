@@ -185,6 +185,6 @@
 - [Lecture Link + Solution](https://classroom.github.com/g/e3FakQuC)
 - [CW Link](https://classroom.github.com/g/ZdC5EajY)
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200921-team-development-solution)
-- [Walk though Video](./message.md)
+- [Walk though Video](https://youtu.be/MuLJdkqcQFA)
 
 ###### Bottom
