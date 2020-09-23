@@ -187,4 +187,13 @@
 - [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200921-team-development-solution)
 - [Walk though Video](https://youtu.be/MuLJdkqcQFA)
 
+#### 20 09 22 .NET Team Development
+- [Lecture Link](https://classroom.github.com/a/T7E1zVSS)
+- [CW Link](https://classroom.github.com/g/uVaC-Fg-)
+- [CW Solution Repo](https://github.com/cs-fullstack-master/200921-git-releases-cw-kevin-codecrew)
+
+#### 20 09 23 .NET Review
+- [Project Link](https://classroom.github.com/a/p4mg_EcK)
+- [CW Solution Repo](https://github.com/cs-fullstack-2020-fall/200923-dotnet-mvc-review-autumn-ragland)
+- [Walk though Video](https://youtu.be/DjmUfdSUfsE)
 ###### Bottom
