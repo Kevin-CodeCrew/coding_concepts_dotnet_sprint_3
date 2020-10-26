@@ -12,7 +12,7 @@ dotnet run
 ```
 
 ### [Assignments](./assignments.md)
-
+### [.NET Key Terms](https://docs.microsoft.com/en-us/dotnet/standard/glossary)
 ### Concepts
 - C# Basics
     - [Variables, Input and Output to the Console](./variables_input_output.md)
