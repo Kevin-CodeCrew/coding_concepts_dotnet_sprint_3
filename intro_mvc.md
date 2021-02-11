@@ -31,7 +31,15 @@ Depending on the IDE you are using, you may have multiple menu options for gener
 
 `dotnet new mvc`
 
-Will create a barebones .NET MVC web application. 
+Will create a barebones .NET MVC web application. Other variations include:
+* .NET MVC with .NET authentication using sqlite:
+`dotnet new mvc -o YourProjectDirectory -au Individual`
+
+* .NET MVC with .NET authentication using local SQL Server:
+`dotnet new mvc -o YourProjectDirectory -au Individual -uld`
+
+* .NET Razor application with .NET authentication using local SQL Server:
+`dotnet new webapp -o YourProjectDirectory -au Individual -uld`
 
 
 ### General Resources 
